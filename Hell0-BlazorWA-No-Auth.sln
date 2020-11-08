@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hell0-BlazorWA-No-Auth.Server", "Hell0-BlazorWA-No-Auth\Server\Hell0-BlazorWA-No-Auth.Server.csproj", "{66AC0CF9-1FA7-47E9-917B-8096C0D86F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hell0-BlazorWA-No-Auth.Client", "Hell0-BlazorWA-No-Auth\Client\Hell0-BlazorWA-No-Auth.Client.csproj", "{0D45E69B-AFF1-4BD3-9266-B76D0C486940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hell0-BlazorWA-No-Auth.Shared", "Hell0-BlazorWA-No-Auth\Shared\Hell0-BlazorWA-No-Auth.Shared.csproj", "{4FD7D6A2-3FDF-46EF-BF7B-4BB3210BBF12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66AC0CF9-1FA7-47E9-917B-8096C0D86F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AC0CF9-1FA7-47E9-917B-8096C0D86F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AC0CF9-1FA7-47E9-917B-8096C0D86F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AC0CF9-1FA7-47E9-917B-8096C0D86F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D45E69B-AFF1-4BD3-9266-B76D0C486940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D45E69B-AFF1-4BD3-9266-B76D0C486940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D45E69B-AFF1-4BD3-9266-B76D0C486940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D45E69B-AFF1-4BD3-9266-B76D0C486940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD7D6A2-3FDF-46EF-BF7B-4BB3210BBF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD7D6A2-3FDF-46EF-BF7B-4BB3210BBF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD7D6A2-3FDF-46EF-BF7B-4BB3210BBF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD7D6A2-3FDF-46EF-BF7B-4BB3210BBF12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
